@@ -11,6 +11,7 @@ pip install -r requirements.txt
 
 Trained model weights, requirements.txt and tokenizer.pkl file can be found in this drive link 
 https://drive.google.com/drive/folders/160x5k6eGySmgP777AifIwEu87zpbpaaj?usp=sharing
+
 ---
 
 ## Steps to Use
