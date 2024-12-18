@@ -9,6 +9,7 @@ Run the below command to download all the respective libraries
 
 pip install -r requirements.txt
 
+Trained model weights, requirements.txt and tokenizer.pkl file can be found in this drive link https://drive.google.com/drive/folders/160x5k6eGySmgP777AifIwEu87zpbpaaj?usp=sharing
 ---
 
 ## Steps to Use
@@ -27,6 +28,7 @@ Once the file paths are updated, run the `image_caption_generation.py` script. T
 - Defines the model architecture.
 - Trains the model and saves the checkpoints.
 - Evaluates the model's performance.
+- Generates checkpoints of best models, set the path for this as well in the code 
 
 ### 4. **Run the Streamlit Application**
 To launch the user interface:
